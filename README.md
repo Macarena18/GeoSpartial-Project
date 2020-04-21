@@ -1,5 +1,5 @@
 # Project 3 - Data GeoSpartial Project
-![alt text](https://github.com/Macarena18/GeoSpartial-Data-Project/blob/master/INPUT/images2.jpg)
+![alt text](https://github.com/Macarena18/GeoSpartial-Project/blob/master/INPUT/images2.jpg)
 
 **Fuentes de datos:**
 - Dataset `companies.json`
@@ -68,6 +68,6 @@ Esta localización cumple con los siguientes requisitos: `office+requirements.pn
 - Distance for **School** -> *589 kilometers*
 
 
-![Foto](https://github.com/Macarena18/GeoSpartial-Data-Project/blob/master/OUTPUT/location_office.png)
+![Foto](https://github.com/Macarena18/GeoSpartial-Project/blob/master/OUTPUT/location_office.png)
 
 
